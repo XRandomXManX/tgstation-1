@@ -278,3 +278,23 @@
 	materials = list(/datum/material/iron = 2000, /datum/material/silver = 1500, /datum/material/plasma = 500, /datum/material/titanium = 1500)
 	category = list("Tool Designs")
 	departmental_flags = DEPARTMENTAL_FLAG_MEDICAL
+
+/datum/design/alienorbitoclast
+	name = "Alien Orbitoclast"
+	desc = "An advanced orbitoclast obtained through Abductor technology."
+	id = "alien_orbitoclast"
+	build_path = /obj/item/orbitoclast/alien
+	build_type = PROTOLATHE
+	materials = list(/datum/material/iron = 2000, /datum/material/silver = 1500, /datum/material/plasma = 500, /datum/material/titanium = 1500)
+	category = list("Tool Designs")
+	departmental_flags = DEPARTMENTAL_FLAG_MEDICAL
+
+/datum/design/alienhammer
+	name = "Alien Hammer"
+	desc = "An advanced hammer obtained through Abductor technology."
+	id = "alien_hammer"
+	build_path = /obj/item/hammer/alien
+	build_type = PROTOLATHE
+	materials = list(/datum/material/iron = 2000, /datum/material/silver = 1500, /datum/material/plasma = 500, /datum/material/titanium = 1500)
+	category = list("Tool Designs")
+	departmental_flags = DEPARTMENTAL_FLAG_MEDICAL

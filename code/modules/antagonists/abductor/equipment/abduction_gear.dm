@@ -752,6 +752,18 @@ Congratulations! You are now trained for invasive xenobiology research!"}
 	icon = 'icons/obj/abductor.dmi'
 	toolspeed = 0.25
 
+/obj/item/orbitoclast/alien
+	name = "alien orbitoclast"
+	desc = "Isn't this just supposed to be an ice pick? What is all this extra stuff?"
+	icon = 'icons/obj/abductor.dmi'
+	toolspeed = 0.25
+
+/obj/item/hammer/alien
+	name = "alien hammer"
+	desc = "It appears as though the hammers humans dicovered were perfect, it's almost completley unchanged."
+	icon = 'icons/obj/abductor.dmi'
+	toolspeed = 0.25
+
 /obj/item/clothing/head/helmet/abductor
 	name = "agent headgear"
 	desc = "Abduct with style - spiky style. Prevents digital tracking."
